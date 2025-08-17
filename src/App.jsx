@@ -4,7 +4,7 @@ import GameBoard from './components/GameBoard';
 function App() {
   return (
     <div className="App">
-      <h1 style={{ textAlign: 'center', marginBottom: '1rem' }}>Tetris</h1>
+      <h1 style={{ textAlign: 'center' }}>Tetris 🎮</h1>
       <GameBoard />
     </div>
   );
